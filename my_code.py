@@ -12,3 +12,8 @@ print('hello')
 
 for i in range(5):
     print(i)
+
+
+
+
+print('hello this iz zeyad')
